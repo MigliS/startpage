@@ -1,0 +1,59 @@
+.row {
+	font-size: 20px;
+}
+
+.row div {
+	color: #fff;
+	height: 120px;
+	border: 1px solid #fff;
+	padding: 15px;
+}
+
+#nr1 {
+	background-color: #03275A;
+}
+
+#nr2 {
+	background-color: #1A7DD7;
+}
+
+#nr3 {
+	background-color: #F2B809;
+}
+
+#nr4 {
+	background-color: #F37402;
+}
+
+#nr5 {
+	background-color: #F34605;
+}
+
+#nr6 {
+	background-color: #d90000;
+}
+
+#nr7 {
+	background-color: #238c00;
+}
+
+#nr8 {
+	background-color: #4ca6ff;
+}
+
+#nr9 {
+	background-color: #6c00d9;
+}
+
+#nr10 {
+	background-color: #8c8c00;
+}
+
+#nr11 {
+	background-color: #006666;
+}
+
+#nr12 {
+	background-color: #238c00;
+}
+
